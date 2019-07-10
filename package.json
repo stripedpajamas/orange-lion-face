@@ -1,0 +1,12 @@
+{
+  "name": "orange-lion-face",
+  "version": "0.0.1",
+  "author": {
+    "email": "stripedpajamas273@gmail.com",
+    "name": "Peter Squicciarini"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stripedpajamas/orange-lion-face"
+  }
+}
